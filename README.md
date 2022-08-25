@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi you nice human-being, thanks for checking this page out! :)
 <!--
 **Asonjay/Asonjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Jason. 
+- I haven't came up with what I should put here, so I will just redirect you to my Github Page then, click [here](asonjay.github.io) 
